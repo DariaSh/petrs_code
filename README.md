@@ -9,3 +9,14 @@ it can also tell you weather your expression is True or False: 199 >=155 or some
 
 and it also knows how to solve simple euations type 2x+6 = 10 with one unknown variable...
 So, it's useful and a bit of fun :)
+
+**HOW TO USE**
+Instal Python 3.x
+run command: pip install kivy
+
+-- download code and logo file --
+
+
+run command python easymath.py
+
+ENJOY!

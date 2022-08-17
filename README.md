@@ -11,12 +11,13 @@ and it also knows how to solve simple euations type 2x+6 = 10 with one unknown v
 So, it's useful and a bit of fun :)
 
 **HOW TO USE**
-Instal Python 3.x
-run command: pip install kivy
+
+
+1. Instal Python 3.x
+2. run command: pip install kivy
 
 -- download code and logo file --
 
-
-run command python easymath.py
+3. From the directory with the py and png files : run command python easymath.py
 
 ENJOY!
